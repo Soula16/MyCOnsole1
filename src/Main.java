@@ -5,12 +5,12 @@ public class Main {
 
         System.out.println("Hello world");
 
-        JFrame f = new JFrame(title;"");
+        JFrame f = new JFrame(title; "");
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         MyPanel myPanel = new MyPanel();
         myPanel.repaint();
         f.add(myPanel);
         f.pack();
         f.setVisible(true);
-
+    }
 }
