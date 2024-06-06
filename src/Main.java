@@ -12,5 +12,5 @@ public class Main {
         f.add(myPanel);
         f.pack();
         f.setVisible(true);
-    }
+
 }
